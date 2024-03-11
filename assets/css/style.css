@@ -124,17 +124,6 @@ button {
   border-radius: 5px;
 }
 
-.btn-save {
-  position: fixed;
-  right: 0px;
-  bottom: 4px;
-  right: 1350px;
-}
-.btn-load {
-  position: fixed;
-  bottom: 4px;
-}
-
 /* Estilo para el contenedor de resultados */
 #results {
   background-color: #ffffff;
@@ -200,6 +189,16 @@ button {
 .btn-edit {
   right: 40px;
   font-size: 24px;
+}
+.btn-save {
+  position: fixed;
+  right: 0px;
+  bottom: 4px;
+  right: 1350px;
+}
+.btn-load {
+  position: fixed;
+  bottom: 4px;
 }
 .drill-set:hover .btn-delete,
 .drill-set:hover .btn-edit {
