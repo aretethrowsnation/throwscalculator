@@ -4,6 +4,7 @@ const type1Drills = [
 
   " Kneeling Throws P6",
   " Skips P6",
+  " Test Drill 0000",
   " Squatted Throws P5.5-6",
   " Walking Line Throw P 3-4-5-6",
   " Drop In Step Down- P2.5-3-4-5-6",
